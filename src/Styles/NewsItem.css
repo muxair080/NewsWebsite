@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.News-card{
+    height: 75vh;
+}
+.author-date small{
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.news-img{
+    height: 30vh;
+}
+.read-more-btn{
+    position:absolute;
+    bottom: 10px;
+}
